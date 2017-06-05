@@ -1,0 +1,46 @@
+.headerlogo img{
+  width:150px  ;
+
+
+}
+#headername {font-size: 135px;
+
+
+
+}
+.searchbox {
+  position: fixed;
+      right: 0;
+}
+nav{
+  text-align: center ;
+  background-color:#D9212B;
+
+
+
+}
+li{
+  text-align: center;
+  display: inline-block;
+  list-style: none;
+}
+body{background-color: grey;
+
+}
+footer{text-align: center;background-color:#D9212B;}
+
+#welcometext {column-count: 2;
+
+
+}
+fieldset{
+
+  border: none;
+}
+body{font-family: "Comic Sans MS", "Comic Sans", cursive;}
+
+
+ #welcomeimage { border:none
+    position:relative;top:100px;right:auto;left: 100px
+    height: auto;width: auto;
+  }
