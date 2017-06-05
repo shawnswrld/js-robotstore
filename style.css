@@ -40,7 +40,12 @@ fieldset{
 body{font-family: "Comic Sans MS", "Comic Sans", cursive;}
 
 
- #welcomeimage { border:none
-    position:relative;top:100px;right:auto;left: 100px
-    height: auto;width: auto;
+ #welcomeimage { 
+    border:none;
+    position:relative;
+    top:100px;
+    right:auto;
+    left: 100px;
+    height: auto;
+    width: auto;
   }
