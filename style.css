@@ -29,10 +29,11 @@ body{background-color: grey;
 }
 footer{text-align: center;background-color:#D9212B;}
 
-#welcometext {column-count: 2;
-
-
+#welcometext {
+    column-count: 2;
+    clear: both;
 }
+
 fieldset{
 
   border: none;
@@ -42,10 +43,11 @@ body{font-family: "Comic Sans MS", "Comic Sans", cursive;}
 
  #welcomeimage { 
     border:none;
-    position:relative;
+    float: right;
+    /*position:relative;
     top:100px;
     right:auto;
     left: 100px;
     height: auto;
-    width: auto;
+    width: auto;*/
   }
